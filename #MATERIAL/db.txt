@@ -1,0 +1,8 @@
+base de teste
+
+CREATE TABLE `eagcon25_php_store`.`clientes` ( `id_cliente` INT NOT NULL AUTO_INCREMENT , `nome` VARCHAR(50) NOT NULL , PRIMARY KEY (`id_cliente`)) ENGINE = InnoDB;
+
+
+usuarios de teste
+
+INSERT INTO `clientes` (`id_cliente`, `nome`) VALUES (NULL, 'Joao'), (NULL, 'Jose');

@@ -1,0 +1,17 @@
+{
+    "name": "administrador/webloja",
+    "description": "Loja online em php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Vitor",
+            "email": "joaosantos.rodrigues9@gmail.com"
+        }
+    ],
+    "require": {}
+}
